@@ -1,3 +1,5 @@
 # Ignore Python log files
 *.log 
 *.pyc
+# Environment variables (never commit secrets)
+.env
